@@ -1,0 +1,18 @@
+{
+  "name": "dat-folders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joe Hand <joe@hand.email>",
+  "license": "BlueOak-1.0.0",
+  "dependencies": {
+    "dat-node": "github:datproject/dat-node#async",
+    "env-paths": "^2.2.0",
+    "hyperdiscovery": "github:joehand/hyperdiscovery#multiple-cores",
+    "toiletdb": "^2.0.0"
+  }
+}
